@@ -114,6 +114,7 @@ td:nth-child(2){
 
     header nav {
         text-align: right;
+        /* text-align: center; */
     }
 
     /* blog */
